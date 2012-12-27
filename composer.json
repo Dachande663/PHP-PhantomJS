@@ -1,0 +1,8 @@
+{
+	"name": "hybridlogic/phantomjs",
+	"description": "A PHP library for executing PhantomJS jobs",
+	"keywords": ["phantomjs"],
+	"require": {
+		"php": ">=5.3.0"
+	}
+}

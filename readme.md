@@ -26,6 +26,10 @@ target system.
 2.0 Examples
 ------------
 
+script.js example: [https://github.com/ariya/phantomjs/blob/master/examples/rasterize.js](https://github.com/ariya/phantomjs/blob/master/examples/rasterize.js)
+
+------------
+
 ```php
 $phantomjs = new HybridLogic\PhantomJS\Runner;
 $result = $phantomjs->execute(dirname(__FILE__) . '/script.js', $arg1, $arg2);
